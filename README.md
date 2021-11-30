@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirito-wl a recruiter that wants to join the people I speak too daily
+- 👋 Hi, I’m @kirito-wl a recruiter that wants to join the people I speak with daily
 - 👀 I’m interested in cloud computing (gcp), gaming, HIT training and family!
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on nothing at this time as I begin my journey!
