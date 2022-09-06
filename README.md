@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirito-wl a recruiter that wants to join the people I speak with daily
 - 👀 I’m interested in cloud computing (gcp), gaming, HIT training and family!
-- 🌱 I’m currently learning Python after getting my head around linux essentials and networking
+- 🌱 I’m currently on the Google Cloud Associate Cloud Engineer after getting my head around Python, linux essentials and networking
 - 💞️ I’m looking to collaborate on nothing at this time as I begin my journey!
 - 📫 How to reach me kirito.wl.dev@gmail.com
 
