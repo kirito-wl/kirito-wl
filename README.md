@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kirito-wl a recruiter and now Junior Platform Engineer that wants to join the people I speak with daily
 - 👀 I’m interested in cloud computing (gcp), gaming, HIT training and family!
-- 🌱 I’m 3 x Google Cloud certified (PCA, ACE and CDL) and hoping to push on to the DevOps path while learning Python and Golang
+- 🌱 I’m 4 x Google Cloud certified (PCDE, PCA, ACE and CDL) and hoping to push on to the DevOps path while learning Golang
 - 📫 How to reach me kirito.wl.dev@gmail.com
